@@ -1,1 +1,1 @@
-# JustClick.github.io
+# JustClick
